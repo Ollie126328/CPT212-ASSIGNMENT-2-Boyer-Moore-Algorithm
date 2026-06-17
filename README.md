@@ -233,7 +233,7 @@ Mismatch at text index 5 ('A'). Skipping forward by 3 positions.
 
 ---
 
-## 📚 References
+## References
 
 - Boyer, R. S., & Moore, J. S. (1977). A fast string searching algorithm. Communications of the ACM, 20(10), 762–772. https://doi.org/10.1145/359842.359859
 - Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2022). Introduction to algorithms (4th ed.). MIT Press.
